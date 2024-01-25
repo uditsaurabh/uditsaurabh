@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Golang, React , Node , Vue
+Python, MachineLearning,Langchain, Generative AI, DRF(Django Rest Framework) ,Golang, React , Node , Vue
 
 
 ## 🌐 Socials:
